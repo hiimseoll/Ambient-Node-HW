@@ -1,0 +1,27 @@
+import pcbnew
+
+# 보드 크기 설정 (mm)
+width = 50
+height = 70
+grid = 2.54  # 2.54mm 격자
+
+
+# 새 보드 생성
+board = pcbnew.GetBoard()
+
+# 격자 패드 생성
+x_count = int(width / grid)
+y_count = int(height / grid)
+
+for x in range(x_count):
+    for y in range(y_count):
+        pad = pcbnew.PAD(board)
+        pad.SetSize(pcbnew.wxSizeMM(1.6, 1.6))
+        pad.SetDrillSize(pcbnew.wxSizeMM(1.0, 1.0))
+        pad.SetShape(pcbnew.PAD_SHAPE_CIRCLE)
+        pad.SetPosition(pcbnew.wxPointMM(x * grid, y * grid))
+        pad.SetLayerSet(pad.StandardMask())
+        board.Add(pad)
+
+# 저장
+pcbnew.SaveBoard("perfboard.kicad_pcb", board)

@@ -1,0 +1,1504 @@
+(export 
+  (version "E") 
+  (design 
+    (source "C:\\Users\\bit\\Desktop\\설동호\\개인 프로젝트\\멀티탭\\PCB설계\\proto\\smart_plug\\smartplug2\\ambient-node\\ambient-node.kicad_sch") 
+    (date "2025-11-17 오전 12:34:37") 
+    (tool "Eeschema 7.0.7") 
+    (sheet 
+      (number "1") 
+      (name "/") 
+      (tstamps "/") 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source "ambient-node.kicad_sch") 
+        (comment 
+          (number "1") 
+          (value "")) 
+        (comment 
+          (number "2") 
+          (value "")) 
+        (comment 
+          (number "3") 
+          (value "")) 
+        (comment 
+          (number "4") 
+          (value "")) 
+        (comment 
+          (number "5") 
+          (value "")) 
+        (comment 
+          (number "6") 
+          (value "")) 
+        (comment 
+          (number "7") 
+          (value "")) 
+        (comment 
+          (number "8") 
+          (value "")) 
+        (comment 
+          (number "9") 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref "J1") 
+      (value "RPI5") 
+      (footprint "4pin_female_header:WURTH_61300411121") 
+      (fields 
+        (field 
+          (name "AVAILABILITY") "In Stock") 
+        (field 
+          (name "Availability") "In Stock") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda") 
+        (field 
+          (name "DESCRIPTION") "Connector Header Through Hole 4 position 0.100 (2.54mm)") 
+        (field 
+          (name "Description") "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n") 
+        (field 
+          (name "MF") "Wurth Electronics") 
+        (field 
+          (name "MP") "61300411121") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "PURCHASE-URL") "https://pricing.snapeda.com/search/part/61300411121/?ref=eda") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (libsource 
+        (lib "4pin female header") 
+        (part "61300411121") 
+        (description "")) 
+      (property 
+        (name "MF") 
+        (value "Wurth Electronics")) 
+      (property 
+        (name "DESCRIPTION") 
+        (value "Connector Header Through Hole 4 position 0.100 (2.54mm)")) 
+      (property 
+        (name "PACKAGE") 
+        (value "None")) 
+      (property 
+        (name "PRICE") 
+        (value "None")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda")) 
+      (property 
+        (name "Price") 
+        (value "None")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (property 
+        (name "MP") 
+        (value "61300411121")) 
+      (property 
+        (name "Description") 
+        (value "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n")) 
+      (property 
+        (name "Availability") 
+        (value "In Stock")) 
+      (property 
+        (name "AVAILABILITY") 
+        (value "In Stock")) 
+      (property 
+        (name "PURCHASE-URL") 
+        (value "https://pricing.snapeda.com/search/part/61300411121/?ref=eda")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "7ba4a168-4ce0-4c37-b96e-0caa442875a6")) 
+    (comp 
+      (ref "J2") 
+      (value "STEP1") 
+      (footprint "4pin_female_header:WURTH_61300411121") 
+      (fields 
+        (field 
+          (name "AVAILABILITY") "In Stock") 
+        (field 
+          (name "Availability") "In Stock") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda") 
+        (field 
+          (name "DESCRIPTION") "Connector Header Through Hole 4 position 0.100 (2.54mm)") 
+        (field 
+          (name "Description") "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n") 
+        (field 
+          (name "MF") "Wurth Electronics") 
+        (field 
+          (name "MP") "61300411121") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "PURCHASE-URL") "https://pricing.snapeda.com/search/part/61300411121/?ref=eda") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (libsource 
+        (lib "4pin female header") 
+        (part "61300411121") 
+        (description "")) 
+      (property 
+        (name "MF") 
+        (value "Wurth Electronics")) 
+      (property 
+        (name "DESCRIPTION") 
+        (value "Connector Header Through Hole 4 position 0.100 (2.54mm)")) 
+      (property 
+        (name "PACKAGE") 
+        (value "None")) 
+      (property 
+        (name "PRICE") 
+        (value "None")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda")) 
+      (property 
+        (name "Price") 
+        (value "None")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (property 
+        (name "MP") 
+        (value "61300411121")) 
+      (property 
+        (name "Description") 
+        (value "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n")) 
+      (property 
+        (name "Availability") 
+        (value "In Stock")) 
+      (property 
+        (name "AVAILABILITY") 
+        (value "In Stock")) 
+      (property 
+        (name "PURCHASE-URL") 
+        (value "https://pricing.snapeda.com/search/part/61300411121/?ref=eda")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "688b1713-f02d-422e-8db8-861d656ae1e0")) 
+    (comp 
+      (ref "J3") 
+      (value "STEP2") 
+      (footprint "4pin_female_header:WURTH_61300411121") 
+      (fields 
+        (field 
+          (name "AVAILABILITY") "In Stock") 
+        (field 
+          (name "Availability") "In Stock") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda") 
+        (field 
+          (name "DESCRIPTION") "Connector Header Through Hole 4 position 0.100 (2.54mm)") 
+        (field 
+          (name "Description") "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n") 
+        (field 
+          (name "MF") "Wurth Electronics") 
+        (field 
+          (name "MP") "61300411121") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "PURCHASE-URL") "https://pricing.snapeda.com/search/part/61300411121/?ref=eda") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (libsource 
+        (lib "4pin female header") 
+        (part "61300411121") 
+        (description "")) 
+      (property 
+        (name "MF") 
+        (value "Wurth Electronics")) 
+      (property 
+        (name "DESCRIPTION") 
+        (value "Connector Header Through Hole 4 position 0.100 (2.54mm)")) 
+      (property 
+        (name "PACKAGE") 
+        (value "None")) 
+      (property 
+        (name "PRICE") 
+        (value "None")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda")) 
+      (property 
+        (name "Price") 
+        (value "None")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (property 
+        (name "MP") 
+        (value "61300411121")) 
+      (property 
+        (name "Description") 
+        (value "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n")) 
+      (property 
+        (name "Availability") 
+        (value "In Stock")) 
+      (property 
+        (name "AVAILABILITY") 
+        (value "In Stock")) 
+      (property 
+        (name "PURCHASE-URL") 
+        (value "https://pricing.snapeda.com/search/part/61300411121/?ref=eda")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "80438d4f-94ac-4ca7-ae03-d4171026bb0a")) 
+    (comp 
+      (ref "J4") 
+      (value "FAN1") 
+      (footprint "4pin_female_header:WURTH_61300411121") 
+      (fields 
+        (field 
+          (name "AVAILABILITY") "In Stock") 
+        (field 
+          (name "Availability") "In Stock") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda") 
+        (field 
+          (name "DESCRIPTION") "Connector Header Through Hole 4 position 0.100 (2.54mm)") 
+        (field 
+          (name "Description") "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n") 
+        (field 
+          (name "MF") "Wurth Electronics") 
+        (field 
+          (name "MP") "61300411121") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "PURCHASE-URL") "https://pricing.snapeda.com/search/part/61300411121/?ref=eda") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (libsource 
+        (lib "4pin female header") 
+        (part "61300411121") 
+        (description "")) 
+      (property 
+        (name "MF") 
+        (value "Wurth Electronics")) 
+      (property 
+        (name "DESCRIPTION") 
+        (value "Connector Header Through Hole 4 position 0.100 (2.54mm)")) 
+      (property 
+        (name "PACKAGE") 
+        (value "None")) 
+      (property 
+        (name "PRICE") 
+        (value "None")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda")) 
+      (property 
+        (name "Price") 
+        (value "None")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (property 
+        (name "MP") 
+        (value "61300411121")) 
+      (property 
+        (name "Description") 
+        (value "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n")) 
+      (property 
+        (name "Availability") 
+        (value "In Stock")) 
+      (property 
+        (name "AVAILABILITY") 
+        (value "In Stock")) 
+      (property 
+        (name "PURCHASE-URL") 
+        (value "https://pricing.snapeda.com/search/part/61300411121/?ref=eda")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "818aceaf-ca1c-4e16-840d-fc47d1ca9e54")) 
+    (comp 
+      (ref "J5") 
+      (value "Converter") 
+      (footprint "4pin_female_header:WURTH_61300411121") 
+      (fields 
+        (field 
+          (name "AVAILABILITY") "In Stock") 
+        (field 
+          (name "Availability") "In Stock") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda") 
+        (field 
+          (name "DESCRIPTION") "Connector Header Through Hole 4 position 0.100 (2.54mm)") 
+        (field 
+          (name "Description") "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n") 
+        (field 
+          (name "MF") "Wurth Electronics") 
+        (field 
+          (name "MP") "61300411121") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "PURCHASE-URL") "https://pricing.snapeda.com/search/part/61300411121/?ref=eda") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (libsource 
+        (lib "4pin female header") 
+        (part "61300411121") 
+        (description "")) 
+      (property 
+        (name "MF") 
+        (value "Wurth Electronics")) 
+      (property 
+        (name "DESCRIPTION") 
+        (value "Connector Header Through Hole 4 position 0.100 (2.54mm)")) 
+      (property 
+        (name "PACKAGE") 
+        (value "None")) 
+      (property 
+        (name "PRICE") 
+        (value "None")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda")) 
+      (property 
+        (name "Price") 
+        (value "None")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (property 
+        (name "MP") 
+        (value "61300411121")) 
+      (property 
+        (name "Description") 
+        (value "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n")) 
+      (property 
+        (name "Availability") 
+        (value "In Stock")) 
+      (property 
+        (name "AVAILABILITY") 
+        (value "In Stock")) 
+      (property 
+        (name "PURCHASE-URL") 
+        (value "https://pricing.snapeda.com/search/part/61300411121/?ref=eda")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "0061d846-3841-44e3-93c6-85eadd43918b")) 
+    (comp 
+      (ref "J6") 
+      (value "FAN2") 
+      (footprint "4pin_female_header:WURTH_61300411121") 
+      (fields 
+        (field 
+          (name "AVAILABILITY") "In Stock") 
+        (field 
+          (name "Availability") "In Stock") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda") 
+        (field 
+          (name "DESCRIPTION") "Connector Header Through Hole 4 position 0.100 (2.54mm)") 
+        (field 
+          (name "Description") "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n") 
+        (field 
+          (name "MF") "Wurth Electronics") 
+        (field 
+          (name "MP") "61300411121") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "PURCHASE-URL") "https://pricing.snapeda.com/search/part/61300411121/?ref=eda") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (libsource 
+        (lib "4pin female header") 
+        (part "61300411121") 
+        (description "")) 
+      (property 
+        (name "MF") 
+        (value "Wurth Electronics")) 
+      (property 
+        (name "DESCRIPTION") 
+        (value "Connector Header Through Hole 4 position 0.100 (2.54mm)")) 
+      (property 
+        (name "PACKAGE") 
+        (value "None")) 
+      (property 
+        (name "PRICE") 
+        (value "None")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda")) 
+      (property 
+        (name "Price") 
+        (value "None")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap")) 
+      (property 
+        (name "MP") 
+        (value "61300411121")) 
+      (property 
+        (name "Description") 
+        (value "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n")) 
+      (property 
+        (name "Availability") 
+        (value "In Stock")) 
+      (property 
+        (name "AVAILABILITY") 
+        (value "In Stock")) 
+      (property 
+        (name "PURCHASE-URL") 
+        (value "https://pricing.snapeda.com/search/part/61300411121/?ref=eda")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6b5bc9d9-9880-41e0-af8b-6d35d3be8927")) 
+    (comp 
+      (ref "U1") 
+      (value "Seeeduino") 
+      (footprint "102010388:MODULE_102010388") 
+      (fields 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/102010388/Seeed+Studio/view-part/?ref=eda") 
+        (field 
+          (name "Description") "\\n                        \\n                            Seeeduino XIAO Development Board, Pre-Soldered [Seeed Studio] 102010388 Seeeduino XIAO Development Board, Pre-Soldered\\n                        \\n") 
+        (field 
+          (name "DigiKey_Part_Number") "1597-102010388-ND") 
+        (field 
+          (name "MANUFACTURER") "Seeed Technology") 
+        (field 
+          (name "MAXIMUM_PACKAGE_HEIGHT") "N/A") 
+        (field 
+          (name "MF") "Seeed Technology Co., Ltd") 
+        (field 
+          (name "MP") "102010388") 
+        (field 
+          (name "PARTREV") "N/A") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "SNAPEDA_PN") "102010388") 
+        (field 
+          (name "STANDARD") "Manufacturer Recommendations") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/102010388/Seeed+Studio/view-part/?ref=snap")) 
+      (libsource 
+        (lib "Seeeduino XIAO") 
+        (part "102010388") 
+        (description "")) 
+      (property 
+        (name "DigiKey_Part_Number") 
+        (value "1597-102010388-ND")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/102010388/Seeed+Studio/view-part/?ref=snap")) 
+      (property 
+        (name "MAXIMUM_PACKAGE_HEIGHT") 
+        (value "N/A")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/102010388/Seeed+Studio/view-part/?ref=eda")) 
+      (property 
+        (name "STANDARD") 
+        (value "Manufacturer Recommendations")) 
+      (property 
+        (name "PARTREV") 
+        (value "N/A")) 
+      (property 
+        (name "MF") 
+        (value "Seeed Technology Co., Ltd")) 
+      (property 
+        (name "MP") 
+        (value "102010388")) 
+      (property 
+        (name "Description") 
+        (value "\\n                        \\n                            Seeeduino XIAO Development Board, Pre-Soldered [Seeed Studio] 102010388 Seeeduino XIAO Development Board, Pre-Soldered\\n                        \\n")) 
+      (property 
+        (name "MANUFACTURER") 
+        (value "Seeed Technology")) 
+      (property 
+        (name "SNAPEDA_PN") 
+        (value "102010388")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2677c7cb-5c74-4fe2-9308-e401e8966c5a")) 
+    (comp 
+      (ref "U2") 
+      (value "STEP1-DRIVER") 
+      (footprint "DRV8825_STEPPER_MOTOR_DRIVER_CARRIER:IC_DRV8825_STEPPER_MOTOR_DRIVER_CARRIER") 
+      (fields 
+        (field 
+          (name "AVAILABILITY") "Unavailable") 
+        (field 
+          (name "Availability") "Not in stock") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda") 
+        (field 
+          (name "DESCRIPTION") "Stepper motor controler; IC: DRV8825; 1.5A; Uin mot: 8.2÷45V") 
+        (field 
+          (name "Description") "\\n                        \\n                            Stepper, Bipolar 8.2 ~{} 45VDC Supply 1.5A 8.2 ~{} 45V Load\\n                        \\n") 
+        (field 
+          (name "MF") "Pololu") 
+        (field 
+          (name "MP") "DRV8825 STEPPER MOTOR DRIVER CARRIER") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap")) 
+      (libsource 
+        (lib "DRV8825") 
+        (part "DRV8825_STEPPER_MOTOR_DRIVER_CARRIER") 
+        (description "")) 
+      (property 
+        (name "MF") 
+        (value "Pololu")) 
+      (property 
+        (name "DESCRIPTION") 
+        (value "Stepper motor controler; IC: DRV8825; 1.5A; Uin mot: 8.2÷45V")) 
+      (property 
+        (name "PACKAGE") 
+        (value "None")) 
+      (property 
+        (name "PRICE") 
+        (value "None")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda")) 
+      (property 
+        (name "Price") 
+        (value "None")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap")) 
+      (property 
+        (name "MP") 
+        (value "DRV8825 STEPPER MOTOR DRIVER CARRIER")) 
+      (property 
+        (name "Availability") 
+        (value "Not in stock")) 
+      (property 
+        (name "AVAILABILITY") 
+        (value "Unavailable")) 
+      (property 
+        (name "Description") 
+        (value "\\n                        \\n                            Stepper, Bipolar 8.2 ~{} 45VDC Supply 1.5A 8.2 ~{} 45V Load\\n                        \\n")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "efd83df4-b241-42c5-b971-2ed9cf17ca75")) 
+    (comp 
+      (ref "U3") 
+      (value "STEP2-DRIVER") 
+      (footprint "DRV8825_STEPPER_MOTOR_DRIVER_CARRIER:IC_DRV8825_STEPPER_MOTOR_DRIVER_CARRIER") 
+      (fields 
+        (field 
+          (name "AVAILABILITY") "Unavailable") 
+        (field 
+          (name "Availability") "Not in stock") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda") 
+        (field 
+          (name "DESCRIPTION") "Stepper motor controler; IC: DRV8825; 1.5A; Uin mot: 8.2÷45V") 
+        (field 
+          (name "Description") "\\n                        \\n                            Stepper, Bipolar 8.2 ~{} 45VDC Supply 1.5A 8.2 ~{} 45V Load\\n                        \\n") 
+        (field 
+          (name "MF") "Pololu") 
+        (field 
+          (name "MP") "DRV8825 STEPPER MOTOR DRIVER CARRIER") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap")) 
+      (libsource 
+        (lib "DRV8825") 
+        (part "DRV8825_STEPPER_MOTOR_DRIVER_CARRIER") 
+        (description "")) 
+      (property 
+        (name "MF") 
+        (value "Pololu")) 
+      (property 
+        (name "DESCRIPTION") 
+        (value "Stepper motor controler; IC: DRV8825; 1.5A; Uin mot: 8.2÷45V")) 
+      (property 
+        (name "PACKAGE") 
+        (value "None")) 
+      (property 
+        (name "PRICE") 
+        (value "None")) 
+      (property 
+        (name "Package") 
+        (value "None")) 
+      (property 
+        (name "Check_prices") 
+        (value "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda")) 
+      (property 
+        (name "Price") 
+        (value "None")) 
+      (property 
+        (name "SnapEDA_Link") 
+        (value "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap")) 
+      (property 
+        (name "MP") 
+        (value "DRV8825 STEPPER MOTOR DRIVER CARRIER")) 
+      (property 
+        (name "Availability") 
+        (value "Not in stock")) 
+      (property 
+        (name "AVAILABILITY") 
+        (value "Unavailable")) 
+      (property 
+        (name "Description") 
+        (value "\\n                        \\n                            Stepper, Bipolar 8.2 ~{} 45VDC Supply 1.5A 8.2 ~{} 45V Load\\n                        \\n")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "ambient-node.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e9d6918f-d9ab-4b92-91f9-bfebfb51e524"))) 
+  (libparts 
+    (libpart 
+      (lib "4pin female header") 
+      (part "61300411121") 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "61300411121") 
+        (field 
+          (name "Footprint") "61300411121:WURTH_61300411121") 
+        (field 
+          (name "MF") "Wurth Electronics") 
+        (field 
+          (name "DESCRIPTION") "Connector Header Through Hole 4 position 0.100 (2.54mm)") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap") 
+        (field 
+          (name "MP") "61300411121") 
+        (field 
+          (name "Description") "\nConnector Header Through Hole 4 position 0.100 (2.54mm)\n") 
+        (field 
+          (name "Availability") "In Stock") 
+        (field 
+          (name "AVAILABILITY") "In Stock") 
+        (field 
+          (name "PURCHASE-URL") "https://pricing.snapeda.com/search/part/61300411121/?ref=eda")) 
+      (pins 
+        (pin 
+          (num "01") 
+          (name "01") 
+          (type "passive")) 
+        (pin 
+          (num "02") 
+          (name "02") 
+          (type "passive")) 
+        (pin 
+          (num "03") 
+          (name "03") 
+          (type "passive")) 
+        (pin 
+          (num "04") 
+          (name "04") 
+          (type "passive")))) 
+    (libpart 
+      (lib "DRV8825") 
+      (part "DRV8825_STEPPER_MOTOR_DRIVER_CARRIER") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "DRV8825_STEPPER_MOTOR_DRIVER_CARRIER") 
+        (field 
+          (name "Footprint") "IC_DRV8825_STEPPER_MOTOR_DRIVER_CARRIER") 
+        (field 
+          (name "MF") "Pololu") 
+        (field 
+          (name "DESCRIPTION") "Stepper motor controler; IC: DRV8825; 1.5A; Uin mot: 8.2÷45V") 
+        (field 
+          (name "PACKAGE") "None") 
+        (field 
+          (name "PRICE") "None") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=eda") 
+        (field 
+          (name "Price") "None") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/DRV8825%20STEPPER%20MOTOR%20DRIVER%20CARRIER/Pololu/view-part/?ref=snap") 
+        (field 
+          (name "MP") "DRV8825 STEPPER MOTOR DRIVER CARRIER") 
+        (field 
+          (name "Availability") "Not in stock") 
+        (field 
+          (name "AVAILABILITY") "Unavailable") 
+        (field 
+          (name "Description") "\\n                        \\n                            Stepper, Bipolar 8.2 ~{} 45VDC Supply 1.5A 8.2 ~{} 45V Load\\n                        \\n")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "~{EN}") 
+          (type "input")) 
+        (pin 
+          (num "2") 
+          (name "M0") 
+          (type "input")) 
+        (pin 
+          (num "3") 
+          (name "M1") 
+          (type "input")) 
+        (pin 
+          (num "4") 
+          (name "M2") 
+          (type "input")) 
+        (pin 
+          (num "5") 
+          (name "~{RST}") 
+          (type "input")) 
+        (pin 
+          (num "6") 
+          (name "~{SLP}") 
+          (type "input")) 
+        (pin 
+          (num "7") 
+          (name "STEP") 
+          (type "input")) 
+        (pin 
+          (num "8") 
+          (name "DIR") 
+          (type "input")) 
+        (pin 
+          (num "9") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "10") 
+          (name "~{FLT}") 
+          (type "output")) 
+        (pin 
+          (num "11") 
+          (name "A2") 
+          (type "output")) 
+        (pin 
+          (num "12") 
+          (name "A1") 
+          (type "output")) 
+        (pin 
+          (num "13") 
+          (name "B1") 
+          (type "output")) 
+        (pin 
+          (num "14") 
+          (name "B2") 
+          (type "output")) 
+        (pin 
+          (num "15") 
+          (name "GND_MOT") 
+          (type "power_in")) 
+        (pin 
+          (num "16") 
+          (name "VMOT") 
+          (type "power_in")))) 
+    (libpart 
+      (lib "Seeeduino XIAO") 
+      (part "102010388") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "102010388") 
+        (field 
+          (name "Footprint") "MODULE_102010388") 
+        (field 
+          (name "DigiKey_Part_Number") "1597-102010388-ND") 
+        (field 
+          (name "SnapEDA_Link") "https://www.snapeda.com/parts/102010388/Seeed+Studio/view-part/?ref=snap") 
+        (field 
+          (name "MAXIMUM_PACKAGE_HEIGHT") "N/A") 
+        (field 
+          (name "Package") "None") 
+        (field 
+          (name "Check_prices") "https://www.snapeda.com/parts/102010388/Seeed+Studio/view-part/?ref=eda") 
+        (field 
+          (name "STANDARD") "Manufacturer Recommendations") 
+        (field 
+          (name "PARTREV") "N/A") 
+        (field 
+          (name "MF") "Seeed Technology Co., Ltd") 
+        (field 
+          (name "MP") "102010388") 
+        (field 
+          (name "Description") "\\n                        \\n                            Seeeduino XIAO Development Board, Pre-Soldered [Seeed Studio] 102010388 Seeeduino XIAO Development Board, Pre-Soldered\\n                        \\n") 
+        (field 
+          (name "MANUFACTURER") "Seeed Technology") 
+        (field 
+          (name "SNAPEDA_PN") "102010388")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "PA02_A0_D0") 
+          (type "bidirectional")) 
+        (pin 
+          (num "2") 
+          (name "PA4_A1_D1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3") 
+          (name "PA10_A2_D2") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4") 
+          (name "PA11_A3_D3") 
+          (type "bidirectional")) 
+        (pin 
+          (num "5") 
+          (name "PA8_A4_D4_SDA") 
+          (type "bidirectional")) 
+        (pin 
+          (num "6") 
+          (name "PA9_A5_D5_SCL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "7") 
+          (name "PB08_A6_D6_TX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "8") 
+          (name "PB09_A7_D7_RX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "9") 
+          (name "PA7_A8_D8_SCK") 
+          (type "bidirectional")) 
+        (pin 
+          (num "10") 
+          (name "PA5_A9_D9_MISO") 
+          (type "bidirectional")) 
+        (pin 
+          (num "11") 
+          (name "PA6_A10_D10_MOSI") 
+          (type "bidirectional")) 
+        (pin 
+          (num "12") 
+          (name "3V3") 
+          (type "power_in")) 
+        (pin 
+          (num "13") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "14") 
+          (name "5V") 
+          (type "power_in"))))) 
+  (libraries 
+    (library 
+      (logical "4pin female header") 
+      (uri "C:/Users/bit/Downloads/kicad_libs/61300411121 (2)/61300411121.kicad_sym")) 
+    (library 
+      (logical "DRV8825") 
+      (uri "C:/Users/bit/Downloads/kicad_libs/DRV8825_STEPPER_MOTOR_DRIVER_CARRIER/DRV8825_STEPPER_MOTOR_DRIVER_CARRIER.lib")) 
+    (library 
+      (logical "Seeeduino XIAO") 
+      (uri "C:/Users/bit/Downloads/kicad_libs/102010388/102010388.lib"))) 
+  (nets 
+    (net 
+      (code "1") 
+      (name "+5V") 
+      (node 
+        (ref "J1") 
+        (pin "01") 
+        (pinfunction "01") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "14") 
+        (pinfunction "5V") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U2") 
+        (pin "5") 
+        (pinfunction "~{RST}") 
+        (pintype "input")) 
+      (node 
+        (ref "U2") 
+        (pin "6") 
+        (pinfunction "~{SLP}") 
+        (pintype "input")) 
+      (node 
+        (ref "U3") 
+        (pin "5") 
+        (pinfunction "~{RST}") 
+        (pintype "input")) 
+      (node 
+        (ref "U3") 
+        (pin "6") 
+        (pinfunction "~{SLP}") 
+        (pintype "input"))) 
+    (net 
+      (code "2") 
+      (name "+24V") 
+      (node 
+        (ref "J5") 
+        (pin "02") 
+        (pinfunction "02") 
+        (pintype "passive")) 
+      (node 
+        (ref "J6") 
+        (pin "01") 
+        (pinfunction "01") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "16") 
+        (pinfunction "VMOT") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U3") 
+        (pin "16") 
+        (pinfunction "VMOT") 
+        (pintype "power_in"))) 
+    (net 
+      (code "3") 
+      (name "/A1-1") 
+      (node 
+        (ref "J2") 
+        (pin "02") 
+        (pinfunction "02") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "12") 
+        (pinfunction "A1") 
+        (pintype "output"))) 
+    (net 
+      (code "4") 
+      (name "/A1-2") 
+      (node 
+        (ref "J3") 
+        (pin "02") 
+        (pinfunction "02") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "12") 
+        (pinfunction "A1") 
+        (pintype "output"))) 
+    (net 
+      (code "5") 
+      (name "/A2-1") 
+      (node 
+        (ref "J2") 
+        (pin "01") 
+        (pinfunction "01") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "11") 
+        (pinfunction "A2") 
+        (pintype "output"))) 
+    (net 
+      (code "6") 
+      (name "/A2-2") 
+      (node 
+        (ref "J3") 
+        (pin "01") 
+        (pinfunction "01") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "11") 
+        (pinfunction "A2") 
+        (pintype "output"))) 
+    (net 
+      (code "7") 
+      (name "/B1-1") 
+      (node 
+        (ref "J2") 
+        (pin "03") 
+        (pinfunction "03") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "13") 
+        (pinfunction "B1") 
+        (pintype "output"))) 
+    (net 
+      (code "8") 
+      (name "/B1-2") 
+      (node 
+        (ref "J3") 
+        (pin "03") 
+        (pinfunction "03") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "13") 
+        (pinfunction "B1") 
+        (pintype "output"))) 
+    (net 
+      (code "9") 
+      (name "/B2-1") 
+      (node 
+        (ref "J2") 
+        (pin "04") 
+        (pinfunction "04") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "14") 
+        (pinfunction "B2") 
+        (pintype "output"))) 
+    (net 
+      (code "10") 
+      (name "/B2-2") 
+      (node 
+        (ref "J3") 
+        (pin "04") 
+        (pinfunction "04") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "14") 
+        (pinfunction "B2") 
+        (pintype "output"))) 
+    (net 
+      (code "11") 
+      (name "/DIR-1") 
+      (node 
+        (ref "U1") 
+        (pin "4") 
+        (pinfunction "PA11_A3_D3") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U2") 
+        (pin "8") 
+        (pinfunction "DIR") 
+        (pintype "input"))) 
+    (net 
+      (code "12") 
+      (name "/DIR-2") 
+      (node 
+        (ref "U1") 
+        (pin "11") 
+        (pinfunction "PA6_A10_D10_MOSI") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U3") 
+        (pin "8") 
+        (pinfunction "DIR") 
+        (pintype "input"))) 
+    (net 
+      (code "13") 
+      (name "/EN-1") 
+      (node 
+        (ref "U1") 
+        (pin "6") 
+        (pinfunction "PA9_A5_D5_SCL") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U2") 
+        (pin "1") 
+        (pinfunction "~{EN}") 
+        (pintype "input"))) 
+    (net 
+      (code "14") 
+      (name "/EN-2") 
+      (node 
+        (ref "U1") 
+        (pin "3") 
+        (pinfunction "PA10_A2_D2") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U3") 
+        (pin "1") 
+        (pinfunction "~{EN}") 
+        (pintype "input"))) 
+    (net 
+      (code "15") 
+      (name "/FG") 
+      (node 
+        (ref "J4") 
+        (pin "02") 
+        (pinfunction "02") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "10") 
+        (pinfunction "PA5_A9_D9_MISO") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "16") 
+      (name "/PWM") 
+      (node 
+        (ref "J4") 
+        (pin "01") 
+        (pinfunction "01") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "9") 
+        (pinfunction "PA7_A8_D8_SCK") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "17") 
+      (name "/RX") 
+      (node 
+        (ref "J1") 
+        (pin "02") 
+        (pinfunction "02") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "7") 
+        (pinfunction "PB08_A6_D6_TX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "18") 
+      (name "/STP-1") 
+      (node 
+        (ref "U1") 
+        (pin "5") 
+        (pinfunction "PA8_A4_D4_SDA") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U2") 
+        (pin "7") 
+        (pinfunction "STEP") 
+        (pintype "input"))) 
+    (net 
+      (code "19") 
+      (name "/STP-2") 
+      (node 
+        (ref "U1") 
+        (pin "2") 
+        (pinfunction "PA4_A1_D1") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U3") 
+        (pin "7") 
+        (pinfunction "STEP") 
+        (pintype "input"))) 
+    (net 
+      (code "20") 
+      (name "/TX") 
+      (node 
+        (ref "J1") 
+        (pin "03") 
+        (pinfunction "03") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "8") 
+        (pinfunction "PB09_A7_D7_RX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "21") 
+      (name "Earth") 
+      (node 
+        (ref "J1") 
+        (pin "04") 
+        (pinfunction "04") 
+        (pintype "passive")) 
+      (node 
+        (ref "J5") 
+        (pin "01") 
+        (pinfunction "01") 
+        (pintype "passive")) 
+      (node 
+        (ref "J6") 
+        (pin "02") 
+        (pinfunction "02") 
+        (pintype "passive")) 
+      (node 
+        (ref "J6") 
+        (pin "03") 
+        (pinfunction "03") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "13") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U2") 
+        (pin "9") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U3") 
+        (pin "15") 
+        (pinfunction "GND_MOT") 
+        (pintype "power_in"))) 
+    (net 
+      (code "22") 
+      (name "unconnected-(J4-Pad03)") 
+      (node 
+        (ref "J4") 
+        (pin "03") 
+        (pinfunction "03") 
+        (pintype "passive"))) 
+    (net 
+      (code "23") 
+      (name "unconnected-(J4-Pad04)") 
+      (node 
+        (ref "J4") 
+        (pin "04") 
+        (pinfunction "04") 
+        (pintype "passive"))) 
+    (net 
+      (code "24") 
+      (name "unconnected-(J5-Pad03)") 
+      (node 
+        (ref "J5") 
+        (pin "03") 
+        (pinfunction "03") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "25") 
+      (name "unconnected-(J5-Pad04)") 
+      (node 
+        (ref "J5") 
+        (pin "04") 
+        (pinfunction "04") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "26") 
+      (name "unconnected-(J6-Pad04)") 
+      (node 
+        (ref "J6") 
+        (pin "04") 
+        (pinfunction "04") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "27") 
+      (name "unconnected-(U1-3V3-Pad12)") 
+      (node 
+        (ref "U1") 
+        (pin "12") 
+        (pinfunction "3V3") 
+        (pintype "power_in+no_connect"))) 
+    (net 
+      (code "28") 
+      (name "unconnected-(U1-PA02_A0_D0-Pad1)") 
+      (node 
+        (ref "U1") 
+        (pin "1") 
+        (pinfunction "PA02_A0_D0") 
+        (pintype "bidirectional+no_connect"))) 
+    (net 
+      (code "29") 
+      (name "unconnected-(U2-GND_MOT-Pad15)") 
+      (node 
+        (ref "U2") 
+        (pin "15") 
+        (pinfunction "GND_MOT") 
+        (pintype "power_in+no_connect"))) 
+    (net 
+      (code "30") 
+      (name "unconnected-(U2-M0-Pad2)") 
+      (node 
+        (ref "U2") 
+        (pin "2") 
+        (pinfunction "M0") 
+        (pintype "input+no_connect"))) 
+    (net 
+      (code "31") 
+      (name "unconnected-(U2-M1-Pad3)") 
+      (node 
+        (ref "U2") 
+        (pin "3") 
+        (pinfunction "M1") 
+        (pintype "input+no_connect"))) 
+    (net 
+      (code "32") 
+      (name "unconnected-(U2-M2-Pad4)") 
+      (node 
+        (ref "U2") 
+        (pin "4") 
+        (pinfunction "M2") 
+        (pintype "input+no_connect"))) 
+    (net 
+      (code "33") 
+      (name "unconnected-(U2-~{FLT}-Pad10)") 
+      (node 
+        (ref "U2") 
+        (pin "10") 
+        (pinfunction "~{FLT}") 
+        (pintype "output+no_connect"))) 
+    (net 
+      (code "34") 
+      (name "unconnected-(U3-GND-Pad9)") 
+      (node 
+        (ref "U3") 
+        (pin "9") 
+        (pinfunction "GND") 
+        (pintype "power_in+no_connect"))) 
+    (net 
+      (code "35") 
+      (name "unconnected-(U3-M0-Pad2)") 
+      (node 
+        (ref "U3") 
+        (pin "2") 
+        (pinfunction "M0") 
+        (pintype "input+no_connect"))) 
+    (net 
+      (code "36") 
+      (name "unconnected-(U3-M1-Pad3)") 
+      (node 
+        (ref "U3") 
+        (pin "3") 
+        (pinfunction "M1") 
+        (pintype "input+no_connect"))) 
+    (net 
+      (code "37") 
+      (name "unconnected-(U3-M2-Pad4)") 
+      (node 
+        (ref "U3") 
+        (pin "4") 
+        (pinfunction "M2") 
+        (pintype "input+no_connect"))) 
+    (net 
+      (code "38") 
+      (name "unconnected-(U3-~{FLT}-Pad10)") 
+      (node 
+        (ref "U3") 
+        (pin "10") 
+        (pinfunction "~{FLT}") 
+        (pintype "output+no_connect")))))

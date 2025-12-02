@@ -3,6 +3,24 @@
 
 Seeeduino XIAO RP2040을 사용해 BLDC모터 와 스텝모터 2개를 이용해 얼굴 추적, 자동 회전, 자연풍, 수동 조작 기능을 구현한 Ambient node 하위 HW프로젝트
 
+한림대학교 25년도 2학기 SW캡스톤디자인
+
+## Demo & Hardware
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="media/pan-test1.gif" width="250"/> | <img src="media/pan-test2.gif" width="250"/> | <img src="media/tilt-test1.gif" width="250"/> |
+| pan 테스트1 | pan 테스트2 | tilt 테스트1 |
+| <img src="media/pan-tilt-test1.gif" width="250"/> | <img src="media/pan-tilt-test2.gif" width="250"/> | <img src="media/fan-test1.gif" width="250"/> |
+| pan-tilt 테스트1 | pan-tilt 테스트2 | fan 테스트1 |
+| <img src="media/fan-test2.gif" width="250"/> | <img src="media/fan-test3.gif" width="250"/> | <img src="media/fan-pan-tilt-test.gif" width="250"/> |
+| fan 테스트2 | fan 테스트3 | fan-pan-tilt 테스트 |
+| <img src="media/soldering-plan.jpg" width="250"/> | <img src="media/after-soldering.jpg" width="250"/> | <img src="media/internal-configuration.png" width="250"/> |
+| 솔더링 플랜 | 솔더링 후 | 내부 구성 |
+
+---
+
+
 ## 하드웨어 구성
 
 - MCU: seeduino XIAO RP2040
@@ -200,3 +218,4 @@ Seeeduino XIAO RP2040을 사용해 BLDC모터 와 스텝모터 2개를 이용해
 - EN 핀 HIGH가 비활성화(전류 차단) 상태이므로, 구동 중이 아닐 때 EN을 HIGH로 유지하면 모터 발열이 감소됨.  
 - 얼굴 추적, 자동 회전, 수동 조작 모드는 동시에 동작하지 않도록 상호 배타적으로 설계됨.  
 - 모터2는 틸트 각도를 유지하기 위해 EEPROM에 위치를 저장. EEPROM_SAVE_DELAY_MS를 통해 저장 간격을 조절하여 EEPROM 수명을 보호.  
+ 
